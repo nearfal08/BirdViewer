@@ -1,0 +1,182 @@
+{
+    "American Goldfinch" : {
+        "bird_image" : "american_goldfinch.jpg",
+        "map_image" : "american_goldfinch_map.jpg",
+        "description" : "This handsome little finch, the state bird of New Jersey, Iowa, and Washington, is welcome and common at feeders, where it takes primarily sunflower and nyjer. Goldfinches often flock with Pine Siskins and Common Redpolls. Spring males are brilliant yellow and shiny black with a bit of white. Females and all winter birds are more dull but identifiable by their conical bill; pointed, notched tail; wingbars; and lack of streaking. During molts they look bizarrely patchy.",
+        "size_shape" : "A small finch with a short, conical bill and a small, head, long wings, and short, notched tail.",
+        "color_pattern" : "Adult males in spring and early summer are bright yellow with black forehead, black wings with white markings, and white patches both above and beneath the tail. Adult females are duller yellow beneath, olive above. Winter birds are drab, unstreaked brown, with blackish wings and two pale wingbars.",
+        "behavior" : "These are active and acrobatic little finches that cling to weeds and seed socks, and sometimes mill about in large numbers at feeders or on the ground beneath them. Goldfinches fly with a bouncy, undulating pattern and often call in flight, drawing attention to themselves.",
+        "habitat" : "The goldfinch’s main natural habitats are weedy fields and floodplains, where plants such as thistles and asters are common. They’re also found in cultivated areas, roadsides, orchards, and backyards. American Goldfinches can be found at feeders any time of year, but most abundantly during winter.",
+        "scientific_name" : "Spinus tristis"
+    },
+    "American Robin" : {
+        "bird_image" : "american_robin.jpg",
+        "map_image" : "american_robin_map.jpg",
+        "description" : "The quintessential early bird, American Robins are common sights on lawns across North America, where you often see them tugging earthworms out of the ground. Robins are popular birds for their warm orange breast, cheery song, and early appearance at the end of winter. Though they’re familiar town and city birds, American Robins are at home in wilder areas, too, including mountain forests and Alaskan wilderness.",
+        "size_shape" : "American Robins are fairly large songbirds with a large, round body, long legs, and fairly long tail. Robins are the largest North American thrushes, and their profile offers a good chance to learn the basic shape of most thrushes. Robins make a good reference point for comparing the size and shape of other birds, too.",
+        "color_pattern" : "American Robins are gray-brown birds with warm orange underparts and dark heads. In flight, a white patch on the lower belly and under the tail can be conspicuous. Compared with males, females have paler heads that contrast less with the gray back.",
+        "behavior" : "American Robins are industrious and authoritarian birds that bound across lawns or stand erect, beak tilted upward, to survey their environs. When alighting they habitually flick their tails downward several times. In fall and winter they form large flocks and gather in trees to roost or eat berries.",
+        "habitat" : "American Robins are common across the continent in gardens, parks, yards, golf courses, fields, pastures, tundra, as well as deciduous woodlands, pine forests, shrublands, and forests regenerating after fires or logging.",
+        "scientific_name" : "Turdus migratorius"
+    },
+    "Black-capped Chickadee" : {
+        "bird_image" : "black_cap_checkadee.jpg",
+        "map_image" : "black_cap_checkadee_map.jpg",
+        "description" : "A bird almost universally considered “cute” thanks to its oversized round head, tiny body, and curiosity about everything, including humans. The chickadee’s black cap and bib; white cheeks; gray back, wings, and tail; and whitish underside with buffy sides are distinctive. Its habit of investigating people and everything else in its home territory, and quickness to discover bird feeders, make it one of the first birds most people learn.",
+        "size_shape" : "This tiny bird has a short neck and large head, giving it a distinctive, rather spherical body shape. It also has a long, narrow tail and a short bill a bit thicker than a warbler’s but thinner than a finch’s.",
+        "color_pattern" : "The cap and bib are black, the cheeks white, the back soft gray, the wing feathers gray edged with white, and the underparts soft buffy on the sides grading to white beneath. The cap extends down just beyond the black eyes, making the small eyes tricky to see.",
+        "behavior" : "Black-capped Chickadees seldom remain at feeders except to grab a seed to eat elsewhere. They are acrobatic and associate in flocks—the sudden activity when a flock arrives is distinctive. They often fly across roads and open areas one at a time with a bouncy flight.",
+        "habitat" : "Chickadees may be found in any habitat that has trees or woody shrubs, from forests and woodlots to residential neighborhoods and parks, and sometimes weedy fields and cattail marshes. They frequently nest in birch or alder trees.",
+        "scientific_name" : "Poecile atricapillus"
+    },
+    "Blue Jay" : {
+        "bird_image" : "blue_jay.jpg",
+        "map_image" : "blue_jay_map.jpg",
+        "description" : "This common, large songbird is familiar to many people, with its perky crest; blue, white, and black plumage; and noisy calls. Blue Jays are known for their intelligence and complex social systems with tight family bonds. Their fondness for acorns is credited with helping spread oak trees after the last glacial period.",
+        "size_shape" : "Large crested songbird with broad, rounded tail. Blue Jays are smaller than crows, larger than robins.",
+        "color_pattern" : "White or light gray underneath, various shades of blue, black, and white above.",
+        "behavior" : "Blue Jays make a large variety of calls that carry long distances. Most calls produced while the jay is perched within a tree. Usually flies across open areas silently, especially during migration. Stuffs food items in throat pouch to cache elsewhere; when eating, holds a seed or nut in feet and pecks it open.",
+        "habitat" : "Blue Jays are birds of forest edges. A favorite food is acorns, and they are often found near oaks, in forests, woodlots, towns, cities, parks.",
+        "scientific_name" : "Cyanocitta cristata"
+    },
+    "Cedar Waxwing" : {
+        "bird_image" : "cedar_waxwing.jpg",
+        "map_image" : "cedar_waxwing_map.jpg",
+        "description" : "A treat to find in your binocular viewfield, the Cedar Waxwing is a silky, shiny collection of brown, gray, and lemon-yellow, accented with a subdued crest, rakish black mask, and brilliant-red wax droplets on the wing feathers. In fall these birds gather by the hundreds to eat berries, filling the air with their high, thin, whistles. In summer you’re as likely to find them flitting about over rivers in pursuit of flying insects, where they show off dazzling aeronautics for a forest bird.",
+        "size_shape" : "The Cedar Waxwing is a medium-sized, sleek bird with a large head, short neck, and short, wide bill. Waxwings have a crest that often lies flat and droops over the back of the head. The wings are broad and pointed, like a starling’s. The tail is fairly short and square-tipped.",
+        "color_pattern" : "Cedar Waxwings are pale brown on the head and chest fading to soft gray on the wings. The belly is pale yellow, and the tail is gray with a bright yellow tip. The face has a narrow black mask neatly outlined in white. The red waxy tips to the wing feathers are not always easy to see.",
+        "behavior" : "Cedar Waxwings are social birds that you’re likely to see in flocks year-round. They sit in fruiting trees swallowing berries whole, or pluck them in mid-air with a brief fluttering hover. They also course over water for insects, flying like tubby, slightly clumsy swallows.",
+        "habitat" : "Look for Cedar Waxwings in woodlands of all kinds, and at farms, orchards, and suburban gardens where there are fruiting trees or shrubs.",
+        "scientific_name" : "Bombycilla cedrorum"
+    },
+    "Common Grackle" : {
+        "bird_image" : "common_grackle.jpg",
+        "map_image" : "",
+        "description" : "Common Grackles are blackbirds that look like they've been slightly stretched. They're taller and longer tailed than a typical blackbird, with a longer, more tapered bill and glossy-iridescent bodies. Grackles walk around lawns and fields on their long legs or gather in noisy groups high in trees, typically evergreens. They eat many crops (notably corn) and nearly anything else as well, including garbage. In flight their long tails trail behind them, sometimes folded down the middle into a shallow V shape.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "You’ll often find Common Grackles in large flocks, flying or foraging on lawns and in agricultural fields. They strut on their long legs, pecking for food rather than scratching. At feeders Common Grackles dominate smaller birds. When resting they sit atop trees or on telephone lines, keeping up a raucous chattering. Flight is direct, with stiff wingbeats.",
+        "habitat" : "Common Grackles thrive around agricultural fields, feedlots, city parks, and suburban lawns. They’re also common in open habitats including woodland, forest edges, meadows, and marshes.",
+        "scientific_name" : "Quiscalus quiscula"
+    },
+    "Dark-eyed Junco" : {
+        "bird_image" : "dark_eyed_junco.jpg",
+        "map_image" : "",
+        "description" : "Dark-eyed Juncos are neat, even flashy little sparrows that flit about forest floors of the western mountains and Canada, then flood the rest of North America for winter. They’re easy to recognize by their crisp (though extremely variable) markings and the bright white tail feathers they habitually flash in flight. One of the most abundant forest birds of North America, you’ll see juncos on woodland walks as well as in flocks at your feeders or on the ground beneath them.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Dark-eyed Juncos are birds of the ground. They hop around the bases of trees and shrubs in forests or venture out onto lawns looking for fallen seeds. You’ll often hear their high chip notes, given almost absent-mindedly while foraging, or intensifying as they take short, low flights through cover.",
+        "habitat" : "Dark-eyed Juncos breed in coniferous or mixed-coniferous forests across Canada, the western U.S., and in the Appalachians. During winter you’ll find them in open woodlands, fields, parks, roadsides, and backyards.",
+        "scientific_name" : "Junco hyemalis "
+    },
+    "Downy Woodpecker" : {
+        "bird_image" : "downy_woodpecker.jpg",
+        "map_image" : "",
+        "description" : "The active little Downy Woodpecker is a familiar sight at backyard feeders and in parks and woodlots, where it joins flocks of chickadees and nuthatches, barely outsizing them. An often acrobatic forager, this black-and-white woodpecker is at home on tiny branches or balancing on slender plant galls, sycamore seed balls, and suet feeders. Downies and their larger lookalike, the Hairy Woodpecker, are one of the first identification challenges that beginning bird watchers master.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Downy Woodpeckers hitch around tree limbs and trunks or drop into tall weeds to feed on galls, moving more acrobatically than larger woodpeckers. Their rising-and-falling flight style is distinctive of many woodpeckers. In spring and summer, Downy Woodpeckers make lots of noise, both with their shrill whinnying call and by drumming on trees.",
+        "habitat" : "You’ll find Downy Woodpeckers in open woodlands, particularly among deciduous trees, and brushy or weedy edges. They’re also at home in orchards, city parks, backyards and vacant lots.",
+        "scientific_name" : "Picoides pubescens"
+    },
+    "Hairy Woodpecker" : {
+        "bird_image" : "hairy_woodpecker.jpg",
+        "map_image" : "",
+        "description" : "The larger of two look alikes, the Hairy Woodpecker is a small but powerful bird that forages along trunks and main branches of large trees. It wields a much longer bill than the Downy Woodpecker's almost thornlike bill. Hairy Woodpeckers have a somewhat soldierly look, with their erect, straight-backed posture on tree trunks and their cleanly striped heads. Look for them at backyard suet or sunflower feeders, and listen for them whinnying from woodlots, parks, and forests.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Hairy Woodpeckers hitch up tree trunks and along main branches. They sometimes feed at the bases of trees, along fallen logs, and even on the ground at times. They have the slowly undulating flight pattern of most woodpeckers.",
+        "habitat" : "Hairy Woodpeckers are birds of mature forests across the continent. They’re also found in woodlots, suburbs, parks, and cemeteries, as well as forest edges, open woodlands of oak and pine, recently burned forests, and stands infested by bark beetles.",
+        "scientific_name" : "Picoides villosus"
+    },
+    "House Finch" : {
+        "bird_image" : "house_finch_.jpg",
+        "map_image" : "",
+        "description" : "The House Finch is a recent introduction from western into eastern North America (and Hawaii), but it has received a warmer reception than other arrivals like the European Starling and House Sparrow. That’s partly due to the cheerful red head and breast of males, and to the bird’s long, twittering song, which can now be heard in most of the neighborhoods of the continent. If you haven’t seen one recently, chances are you can find one at the next bird feeder you come across",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "House Finches are gregarious birds that collect at feeders or perch high in nearby trees. When they’re not at feeders, they feed on the ground, on weed stalks, or in trees. They move fairly slowly and sit still as they shell seeds by crushing them with rapid bites. Flight is bouncy, like many finches.",
+        "habitat" : "House Finches frequent city parks, backyards, urban centers, farms, and forest edges across the continent. In the western U.S., you’ll also find House Finches in their native habitats of deserts, grassland, chaparral, and open woods.",
+        "scientific_name" : "Haemorhous mexicanus"
+    },
+    "House Wren" : {
+        "bird_image" : "house_wren.jpg",
+        "map_image" : "",
+        "description" : "A plain brown bird with an effervescent voice, the House Wren is a common backyard bird over nearly the entire Western Hemisphere. Listen for its rush-and-jumble song in summer and you’ll find this species zipping through shrubs and low tree branches, snatching at insects. House Wrens will gladly use nestboxes, or you may find their twig-filled nests in old cans, boots, or boxes lying around in your garage.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Bubbly and energetic, just like their songs. Look for House Wrens hopping quickly through tangles and low branches and, in spring and summer, frequently pausing to deliver cheerful trilling songs.",
+        "habitat" : "In summer, House Wrens are at home in open forests, forest edges, and areas with scattered grass and trees. Backyards, farmyards, and city parks are perfect for them. In winter they become more secretive, preferring brushy tangles, thickets, and hedgerows.",
+        "scientific_name" : "Troglodytes aedon"
+    },
+    "Mourning Dove" : {
+        "bird_image" : "mourning_dove.jpg",
+        "map_image" : "",
+        "description" : "A graceful, slender-tailed, small-headed dove that’s common across the continent. Mourning Doves perch on telephone wires and forage for seeds on the ground; their flight is fast and bullet straight. Their soft, drawn-out calls sound like laments. When taking off, their wings make a sharp whistling or whinnying. Mourning Doves are the most frequently hunted species in North America.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Mourning Doves fly fast on powerful wingbeats, sometimes making sudden ascents, descents, and dodges, their pointed tails stretching behind them.",
+        "habitat" : "You can see Mourning Doves nearly anywhere except the deep woods. Look for them in fields or patches of bare ground, or on overhead perches like telephone wires.",
+        "scientific_name" : "Zenaida macroura"
+    },
+    "Northern Cardinal" : {
+        "bird_image" : "northern_cardinal.jpg",
+        "map_image" : "",
+        "description" : "The male Northern Cardinal is perhaps responsible for getting more people to open up a field guide than any other bird. They’re a perfect combination of familiarity, conspicuousness, and style: a shade of red you can’t take your eyes off. Even the brown females sport a sharp crest and warm red accents. Cardinals don’t migrate and they don’t molt into a dull plumage, so they’re still breathtaking in winter’s snowy backyards. In summer, their sweet whistles are one of the first sounds of the morning.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Northern Cardinals tend to sit low in shrubs and trees or forage on or near the ground, often in pairs. They are common at bird feeders but may be inconspicuous away from them, at least until you learn their loud, metallic chip note.",
+        "habitat" : "Look for Northern Cardinals in inhabited areas such as backyards, parks, woodlots, and shrubby forest edges. Northern Cardinals nest in dense tangles of shrubs and vines.",
+        "scientific_name" : "Cardinalis cardinalis"
+    },
+    "Purple Finch" : {
+        "bird_image" : "purple_finch.jpg",
+        "map_image" : "",
+        "description" : "The Purple Finch is the bird that Roger Tory Peterson famously described as a “sparrow dipped in raspberry juice.” For many of us, they’re irregular winter visitors to our feeders, although these chunky, big-beaked finches do breed in northern North America and the West Coast. Separating them from House Finches requires a careful look, but the reward is a delicately colored, cleaner version of that red finch. Look for them in forests, too, where you’re likely to hear their warbling song from the highest parts of the trees.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Purple Finches readily come to feeders for black oil sunflower seeds. You’ll also see them in forests, where they can be noisy but hard to see as they forage high in trees. In winter they may descend to eat seeds from plants and stalks in weedy fields. Their flight is undulating.",
+        "habitat" : "Purple Finches breed mainly in coniferous forests or mixed deciduous and coniferous woods. During winter you can find them in a wider variety of habitats, including shrublands, old fields, forest edges, and backyards.",
+        "scientific_name" : "Haemorhous purpureus"
+    },
+    "Red-bellied Woodpecker" : {
+        "bird_image" : "red_bellied_woodpecker.jpg",
+        "map_image" : "",
+        "description" : "Red-bellied Woodpeckers are pale, medium-sized woodpeckers common in forests of the East. Their strikingly barred backs and gleaming red caps make them an unforgettable sight – just resist the temptation to call them Red-headed Woodpeckers, a somewhat rarer species that's mostly black on the back with big white wing patches. Learn the Red-bellied's rolling call and you’ll notice these birds everywhere.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Look for Red-bellied Woodpeckers hitching along branches and trunks of medium to large trees, picking at the bark surface more often than drilling into it. Like most woodpeckers, these birds have a characteristic undulating flight pattern.",
+        "habitat" : "Red-bellied Woodpeckers are common in many Eastern woodlands and forests, from old stands of oak and hickory to young hardwoods and pines. They will also often venture from forests to appear at backyard feeders.",
+        "scientific_name" : "Melanerpes carolinus"
+    },
+    "Song Sparrow" : {
+        "bird_image" : "song_sparrow.jpg",
+        "map_image" : "",
+        "description" : "A rich, russet-and-gray bird with bold streaks down its white chest, the Song Sparrow is one of the most familiar North American sparrows. Don’t let the bewildering variety of regional differences this bird shows across North America deter you: it’s one of the first species you should suspect if you see a streaky sparrow in an open, shrubby, or wet area. If it perches on a low shrub, leans back, and sings a stuttering, clattering song, so much the better.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "Song Sparrows flit through dense, low vegetation or low branches, occasionally moving onto open ground after food. Flights are short and fluttering, with a characteristic downward pumping of the tail. Male Song Sparrows sing from exposed perches such as small trees.",
+        "habitat" : "Look for Song Sparrows in nearly any open habitat, including marsh edges, overgrown fields, backyards, desert washes, and forest edges. Song Sparrows commonly visit bird feeders and build nests in residential areas.",
+        "scientific_name" : "Melospiza melodia"
+    },
+    "White-breasted Nuthatch" : {
+        "bird_image" : "white_breasted_nuthatch.jpg",
+        "map_image" : "",
+        "description" : "A common feeder bird with clean black, gray, and white markings, White-breasted Nuthatches are active, agile little birds with an appetite for insects and large, meaty seeds. They get their common name from their habit of jamming large nuts and acorns into tree bark, then whacking them with their sharp bill to “hatch” out the seed from the inside. White-breasted Nuthatches may be small but their voices are loud, and often their insistent nasal yammering will lead you right to them.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "White-breasted Nuthatches are agile birds that creep along trunks and large branches, probing into bark furrows with their straight, pointed bills. Like other nuthatches, they often turn sideways and upside down on vertical surfaces as they forage. They don’t lean against their tails the way woodpeckers do.",
+        "habitat" : "White-breasted Nuthatches are birds of mature woods and woodland edges. They’re particularly associated with deciduous stands, including maple, hickory, basswood, and oak, though they can be found in some coniferous forests.",
+        "scientific_name" : "Sitta carolinensis"
+    },
+    "White-throated Sparrow" : {
+        "bird_image" : "white_throated_sparrow.jpg",
+        "map_image" : "",
+        "description" : "Crisp facial markings make the White-throated Sparrow an attractive bird as well as a hopping, flying anatomy lesson. There’s the black eyestripe, the white crown and supercilium, the yellow lores, the white throat bordered by a black whisker, or malar stripe. They’re also a great entrée into the world of birdsong, with their pretty, wavering whistle of Oh-sweet-canada. These forest sparrows breed mostly across Canada, but they’re familiar winter birds across most of eastern and southern North America and California.",
+        "size_shape" : "",
+        "color_pattern" : "",
+        "behavior" : "White-throated Sparrows stay near the ground, scratching through leaves in search of food, often in flocks. You may see them low in bushes as well, particularly in spring when they eat fresh buds. White-throated Sparrows sing their distinctive songs frequently, even in winter.",
+        "habitat" : "Look for White-throated Sparrows in woods, at forest edges, in the regrowth that follows logging or forest fires, at pond and bog edges, and in copses near treeline. In winter you can find these birds in thickets, overgrown fields, parks, and woodsy suburbs. They readily come to backyards for birdseed.",
+        "scientific_name" : "Zonotrichia albicollis"
+    } 
+}
